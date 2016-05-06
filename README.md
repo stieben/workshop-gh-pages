@@ -2,6 +2,7 @@
 
 These are notes for a workshop at the [Lernwerkstatt](http://www.die-lernwerkstatt.org/) in Berlin on May 8th, 2016, and are meant as a reference for its participants.
 Should it facilitate autonomous learning for anybody else – even better!
+A [presentation is available](http://stieben.github.io/workshop-gh-pages/) as well.
 
 ## Table of contents
 
@@ -19,8 +20,10 @@ Should it facilitate autonomous learning for anybody else – even better!
   - [Formatting text with Markdown](#formatting-text-with-markdown)
 
 
+
 - [A deeper look at the HPSTR theme](#a-deeper-look-at-the-hpstr-theme)
 - [Connecting a custom domain](#connecting-a-custom-domain)
+
 
 
 - [Last words](#last-words)

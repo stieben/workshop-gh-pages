@@ -196,8 +196,17 @@ html,
   color: #BDBDBD;
 }
 
+.seq .seq-slide li {
+  color: #FFF;
+  list-style: none;
+}
+
 .seq .seq-slide p {
   color: #FFF;
+}
+
+.seq .seq-slide ul {
+  padding: 0;
 }
 
 .seq .seq-slide a {
@@ -275,7 +284,21 @@ html,
   width: 10em;
 }
 
+#web-publishing {
+  max-width: 100%;
+}
+
 .block {
   display: block;
   margin: 0 auto;
+}
+
+.space {
+  margin-bottom: 1.5em;
+}
+
+.white-box {
+  background: #FFF;
+  border-radius: 15px;
+  padding: 25px;
 }

@@ -289,6 +289,7 @@ Closed issues show questions that have already been answered.
 
 ## License
 
-&copy; 2016 Andrej Stieben
+&copy; 2016 Andrej Stieben – for this workshop  
+&copy; 2015 Ian Lunn Design Limited – for [Sequence.js](http://www.sequencejs.com/) and its [Starter Basic theme](http://www.sequencejs.com/themes/starter-basic/)
 
-This repository is licensed under the [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) license.
+This repository is made available under the [GPLv3](http://www.gnu.org/licenses/gpl-3.0) license.

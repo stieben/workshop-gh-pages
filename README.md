@@ -19,14 +19,15 @@ A [presentation is available](http://stieben.github.io/workshop-gh-pages/) as we
   - [Meta information](#meta-information)
   - [Formatting text with Markdown](#formatting-text-with-markdown)
 
-
+---
 
 - [A deeper look at the HPSTR theme](#a-deeper-look-at-the-hpstr-theme)
 - [Connecting a custom domain](#connecting-a-custom-domain)
-
+  - [Free domains](#free-domains)
 
 
 - [Last words](#last-words)
+  - [Thanks](#thanks)
 - [More information](#more-information)
 - [License](#license)
 
@@ -60,7 +61,7 @@ Let's take a look at the wide spectrum of possibilities, more or less ranging fr
 | ------------------- | ----------------------------------------- | ------------------------------------ | ---------------------------------- |
 | Social network      | [Facebook](https://www.facebook.com/)     | Blogging with notes; groups & pages  | Closed platform; FB owns your data |
 | Publishing platform | [Medium](https://medium.com/)             | Ease of use; social journalism       | Limited to articles; one UI design |
-| Website builder     | [Weebly](https://www.weebly.com/)         | Ease of use; different website types | Ads; not all features are free     |
+| Website builder     | [Weebly](https://www.weebly.com/)         | Ease of use; different website types | Not all features are free          |
 | Blogging platform   | [Wordpress](https://wordpress.com/)       | Can be self-hosted; themes & plugins | Modification requires tech skills  |
 | Static site         | [GitHub Pages](https://pages.github.com/) | Themes, can be totally customized    | Markup language; setup required    |
 | Web hosting         | [Uberspace](https://uberspace.de/)        | Use databases and popular scripts    | Costs money; tech skills needed    |
@@ -255,7 +256,7 @@ When you're done writing your first post, switch to GitHub Desktop, review your 
 
 ## A deeper look at the HPSTR theme
 
-There's a couple of interesting files and folders we should pay attention to:
+There's a couple of interesting files and folders we may pay attention to:
 
 - **_layouts/**: If you want to customize the structure of your pages this is where you need to look.
   The thing is – you need to know a bit or two about HTML and Jekyll to understand what is going on in here.
@@ -275,6 +276,27 @@ If `<your-username>.github.io` isn't enough, you can connect your website with a
 If you haven't registered a domain already, you should do that now, for example at [DomainFactory](https://www.df.eu/).
 [GitHub has written an article about how to proceed.](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/)
 
+### Free domains
+
+[Freenom](http://www.freenom.com/en/freeandpaiddomains.html) offers 5 free domain TLDs:
+
+- [.tk](https://en.wikipedia.org/wiki/.tk)
+- [.ml](https://en.wikipedia.org/wiki/.ml)
+- [.ga](https://en.wikipedia.org/wiki/.ga)
+- [.cf](https://en.wikipedia.org/wiki/.cf)
+- [.gq](https://en.wikipedia.org/wiki/.gq)
+
+There's just one catch: Registrants of a free domain don't become owners of that domain which means that you don't have the same rights as usual.
+For example, [their FAQ page states](http://www.freenom.com/en/support.html):
+
+> For FREE domain names you can register domains for 1 to 12 months.
+> You can renew FREE domain names in the last 15 days of each registration period – 15 days before the expiration date.
+>
+> (...)
+>
+> If your website is down for a prolonged period or if your content is unacceptable/not uploaded the domain will be cancelled.
+> Your domain name might then become automatically available for other registrants to register either as a free or as a paid registration.
+
 ---
 
 ## Last words
@@ -286,9 +308,13 @@ Watching it means you get notifications whenever it's updated.
 If a question comes up you are always welcome to open up an issue.
 Closed issues show questions that have already been answered.
 
+### Thanks
+
+Thanks to @hnz101 for pointing me to _Freenom_.
+
 ## More information
 
-- [HPSTR theme repository](https://github.com/mmistakes/hpstr-jekyll-theme)
+[HPSTR theme repository](https://github.com/mmistakes/hpstr-jekyll-theme)
 
 ## License
 

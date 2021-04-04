@@ -1,6 +1,6 @@
 # Workshop: GitHub Pages
 
-These are notes for a workshop at the [Lernwerkstatt](http://www.die-lernwerkstatt.org/) in Berlin on May 8th, 2016, and are meant as a reference for its participants.
+These are the notes for a workshop I conducted at the [Lernwerkstatt](http://www.die-lernwerkstatt.org/) in Berlin on May 8th, 2016, and are meant as a reference for its participants.
 Should it facilitate autonomous learning for anybody else – even better!
 A [presentation is available](http://stieben.github.io/workshop-gh-pages/) as well.
 
@@ -177,14 +177,11 @@ Jekyll is a so called static site generator.
 It helps you combine different components into a set of web pages.
 Confusing?
 Don't worry – you don't have to touch anything Jekyll if you don't want to.
-There's ready-made themes available for you to use for free.
+There's ready-made themes available for you to use for free, for example at [JekyllThemes.io](https://jekyllthemes.io/).
 Let's try one:
 
-1. Navigate to [JekyllThemes.io](http://www.jekyllthemes.io/).
-2. Click onto _free themes_.
-3. Select [the HPSTR theme](http://www.jekyllthemes.io/theme/12330472/hpstr-jekyll-theme) (4th row).
-4. Download.
-5. Open the ZIP file and copy the contents of _hpstr-jekyll-theme-master_ to your project folder.
+1. Download [the HPSTR theme](https://github.com/mmistakes/jekyll-theme-hpstr/archive/refs/tags/1.7.6.zip).
+2. Open the ZIP archive and copy the contents of the _jekyll-theme-hpstr-1.7.6_ folder to your project folder.
   - When done, you may delete that ZIP file.
 
 Now, before creating your first blog post, let's make sure that theme actually works:
@@ -297,28 +294,25 @@ For example, [their FAQ page states](http://www.freenom.com/en/support.html):
 > If your website is down for a prolonged period or if your content is unacceptable/not uploaded the domain will be cancelled.
 > Your domain name might then become automatically available for other registrants to register either as a free or as a paid registration.
 
----
-
 ## Last words
 
 To keep this workshop documentation as a reference, I'd recommend starring this repository.
 You can do this at the top right of this page; it adds a bookmark to your profile.
 Watching it means you get notifications whenever it's updated.
 
-If a question comes up you are always welcome to open up an issue.
-Closed issues show questions that have already been answered.
+If a question comes up you are always welcome to start a [discussion](https://github.com/stieben/workshop-gh-pages/discussions).
 
 ### Thanks
 
-Thanks to @hnz101 for pointing me to _Freenom_.
+Thanks to [@hnz101](https://github.com/hnz101) for pointing me to _Freenom_.
 
 ## More information
 
-[HPSTR theme repository](https://github.com/mmistakes/hpstr-jekyll-theme)
+[HPSTR theme repository](https://github.com/mmistakes/jekyll-theme-hpstr)
 
 ## License
 
-&copy; 2016 Andrej Stieben – for this workshop  
+&copy; 2021 Andrej Stieben – for this workshop  
 &copy; 2015 Ian Lunn Design Limited – for [Sequence.js](http://www.sequencejs.com/) and its [Starter Basic theme](http://www.sequencejs.com/themes/starter-basic/)
 
-This repository is made available under the [GPLv3](http://www.gnu.org/licenses/gpl-3.0) license.
+This repository is made available under the [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) license.
